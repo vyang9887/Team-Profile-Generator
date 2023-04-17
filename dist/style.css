@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: rgb(177, 176, 176);
+}
+
+header {
+    color: white;
+    text-align: center;
+    background-color: rgb(177, 41, 41)
+}
+
+.card {
+    margin: 20px;
+    background-color: white;
+    filter: drop-shadow(10px 10px 10px black);
+    padding: 1rem;
+}
+
+.cardHead {
+    background-color: rgb(53, 83, 216);
+    text-indent:1em;
+    color: white;
+}
+
+.cardBody {
+    background-color: rgb(177, 176, 176);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.list-group-item {
+    color: black;
+    
+}
