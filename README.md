@@ -29,7 +29,7 @@ After installation, run 'node index.js' in terminal, then follow the prompts in 
 
 > npm run test
 
-> ## Page Preview: ![Preview](./readmepreview/readmepreview.png)
+> ## Page Preview: ![Preview](./readmepreview/readmepreview.jpeg)
 
 ## Question
 
